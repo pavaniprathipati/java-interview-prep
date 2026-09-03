@@ -1,0 +1,3 @@
+# MySql
+
+Sql queries practice.
